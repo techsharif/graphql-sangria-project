@@ -1,0 +1,66 @@
+# IntelliJ IDEA specific files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Logs
+logs/
+*.log
+
+# Target directory
+/target/
+
+# Compiled class files
+*.class
+
+# Scala specific
+*.cache
+*.class
+*.log
+*.project
+*.idea_modules
+*.sbt
+*.sbt.lock
+*.history
+*.swp
+*.lock
+*.tmp
+*.bak
+*.orig
+*.rej
+*.class
+*.jar
+*.war
+*.ear
+*.dll
+*.exe
+*.so
+*.dylib
+*.pyc
+*.pyo
+*.pyd
+*.pid
+*.pid.lock
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# SBT specific
+project/target/
+project/project/
+.history
+.cache
+.lib/
+dist/
+lib_managed/
+src_managed/
+boot/
+tmp/
+.sts4-cache/
+.sts4-cache/
